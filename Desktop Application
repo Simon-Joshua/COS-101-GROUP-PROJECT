@@ -42,7 +42,7 @@ french_dict = {
     "train station": "gare",
     "bus": "bus",
     "taxi": "taxi"
-"house": "Maison",
+    "house": "Maison",
     "good": "Bien",
     "bad": "Mal",
     "small": "Petit",
@@ -67,7 +67,7 @@ french_dict = {
     "health": "Sante",
     "education": "Eduction",
 
-"software": "logiciel",
+    "software": "logiciel",
     "internet": "internet",
     "data": "données",
     "science": "science",
